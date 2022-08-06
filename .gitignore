@@ -1,0 +1,15 @@
+.settings/
+src/*.class
+src/*/*.class
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
